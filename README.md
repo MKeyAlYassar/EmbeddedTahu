@@ -1,6 +1,6 @@
 # Sistem Pemanfaatan Air Limbah Pembuatan Tahu Untuk Kolam Ikan Dengan Sensor Berbasis Arduino
 
-Proyek ini bertujuan untuk membuat memanfaatkan kembali limbah cair tahu untuk digunakan sebagai pakan ikan dengan sistem yang terintegrasi dengan sensor dan Arduino.
+Proyek ini bertujuan untuk memanfaatkan kembali limbah cair tahu untuk digunakan sebagai pakan ikan dengan sistem yang terintegrasi dengan sensor dan Arduino.
 
 ## Fitur Utama
 - **Monitoring pH Air**: Menggunakan sensor pH untuk membaca tingkat keasaman/alkalinitas air secara real-time.
